@@ -17,7 +17,10 @@ class Main
 	{
 		for (i in 0...size)
 		{
-			for(j in ...0.
+			for (j in 0...size)
+			{
+				
+			}
 		}
 	}
 
